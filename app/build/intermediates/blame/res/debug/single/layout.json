@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "H:\\AndroidStudioBlogProjects\\android-youtube-player-askfortricks\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "H:\\AndroidStudioBlogProjects\\android-youtube-player-askfortricks\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioBlogProjects\\android-youtube-player-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample.xml",
+        "source": "H:\\AndroidStudioBlogProjects\\android-youtube-player-master\\app\\src\\main\\res\\layout\\sample.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioBlogProjects\\android-youtube-player-askfortricks\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample.xml",
+        "source": "H:\\AndroidStudioBlogProjects\\android-youtube-player-askfortricks\\app\\src\\main\\res\\layout\\sample.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioBlogProjects\\android-youtube-player-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "H:\\AndroidStudioBlogProjects\\android-youtube-player-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
